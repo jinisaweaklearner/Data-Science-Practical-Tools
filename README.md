@@ -28,6 +28,11 @@
 
 ### MLops
 - [Kubeflow](https://www.kubeflow.org/docs/components/pipelines/introduction/)
-- [optuna](https://optuna.org/) auto optimization
-- [MLflow](https://mlflow.org/docs/latest/tracking.html)
-- [neptune](https://neptune.ai/product) Model performance tracking
+  - an open-source project that leverages Kubernetes to build scalable MLOps pipelines and orchestrate complicated workflows
+- [optuna](https://optuna.org/) 
+  - auto optimization
+- [MLflow](https://mlflow.org/docs/latest/tracking.html) 
+  - MLflow makes it far easier to promote models to API endpoints on various cloud vendors
+  - Just a single python package
+- [neptune](https://neptune.ai/product) 
+  - Model performance tracking
