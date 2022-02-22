@@ -2,9 +2,9 @@
 
 ### EDA
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
-- quick data anlysis
-- find missing values or outliers
-- computational expensive when dataset is large
+  - quick data anlysis
+  - find missing values or outliers
+  - computational expensive when dataset is large
 
 ### Data Validation
 - [great_expectations](https://github.com/great-expectations/great_expectations)
