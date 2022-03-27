@@ -25,6 +25,9 @@
 ### Model explaination
 - [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 
+### Time Series Forecasting Python Packages
+- [prophet](https://github.com/facebook/prophet)
+- [Darts](https://github.com/unit8co/darts)
 
 ### MLops
 - [Kubeflow](https://www.kubeflow.org/docs/components/pipelines/introduction/)
@@ -36,3 +39,4 @@
   - Just a single python package
 - [neptune](https://neptune.ai/product) 
   - Model performance tracking
+- Dataiku
