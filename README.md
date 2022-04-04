@@ -1,6 +1,10 @@
 # Data Science Practical Tools
 ### Jupyter Notebook Extensions
 - [tutorial](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- Collapsible Headings: collapsible sections, separated by headings
+- Table of Contents (2): enables to collect all running headers and display them in a floating window
+- Variable Inspector
+- Autopep8
 
 ### EDA
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
