@@ -1,4 +1,6 @@
 # Data Science Practical Tools
+### Jupyter Notebook Extensions
+- [tutorial](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 
 ### EDA
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
