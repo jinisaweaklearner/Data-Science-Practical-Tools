@@ -46,3 +46,7 @@
 - [neptune](https://neptune.ai/product) 
   - Model performance tracking
 - Dataiku
+
+### Feature Store
+- [feature store blog](https://www.featurestore.org/)
+- [gcp feature store](https://cloud.google.com/vertex-ai/docs/featurestore/concepts)
